@@ -11,8 +11,7 @@ logic.
 ## How to Run the Program
 1. Clone the repository:
  ```bash
- git clone https://github.com/group-leader-username/simple-
-calculator.git
+ git clone https://github.com/abiking24/calculator.git
  cd simple-calculator
 2. Compile the program:
 bash
